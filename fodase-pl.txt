@@ -1,5 +1,5 @@
 FODASE (Free and Open DAta, Sources, and Enything) Public License
-
+V 0.1 May 2021
 
 TERMS AND CONDITIONS FOR COPYING, DISTRIBUTION AND MODIFICATION
 
