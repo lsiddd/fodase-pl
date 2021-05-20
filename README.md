@@ -1,7 +1,7 @@
 # fodase-pl
 Free and Open DAta, Sources, and Enything
 
-            Free and Open DAta, Sources, and Enything Public Lice
+            Free and Open DAta, Sources, and Enything Public Licence
 
                     Version 0.1, May 2021
 
